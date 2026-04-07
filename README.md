@@ -1,6 +1,6 @@
-# analise-credito
-Sistema simples de análise de crédito em Python baseado em renda e histórico do cliente.
 # Análise de Crédito
+
+Sistema simples de análise de crédito em Python baseado em renda e histórico do cliente.
 
 Projeto desenvolvido em Python como parte dos meus estudos em Análise e Desenvolvimento de Sistemas (ADS).
 
@@ -16,3 +16,12 @@ O programa realiza a análise de crédito de um cliente com base em:
 
 ##  Autor
 Bruno Fritsch
+
+## ▶️ Como executar
+
+1. Abra o terminal
+2. Navegue até a pasta do projeto
+3. Execute o arquivo com:
+
+```bash
+python AprovacaoCreditoAPS5.py
