@@ -24,4 +24,4 @@ Bruno Fritsch
 3. Execute o arquivo com:
 
 ```bash
-python AprovacaoCreditoAPS5.py
+python AprovacaoCredito.py
